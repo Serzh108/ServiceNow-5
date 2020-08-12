@@ -1,2 +1,5 @@
-# ServiceNow-5
- Test # 4 for ServiceNow
+@test/incident-list
+===============================================
+Component with actions.
+
+Component Authors, provide some documentation for your users here!
